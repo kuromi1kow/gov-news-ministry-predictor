@@ -66,6 +66,11 @@ Input:
 
 
 Output:
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/1dc9bb6e-d80a-46a5-a4e1-c219cee1a014)
 
 📊 Visualization
