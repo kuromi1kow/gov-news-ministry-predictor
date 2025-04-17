@@ -13,6 +13,10 @@ ministry – the correct ministry (manually annotated)
 text – combined field used for classification (title + content)
 
 🧩 Models Breakdown
+
+
+
+
 ✅ 1. General Ministry Classifier (Neural Network)
 A deep learning model built with TensorFlow/Keras that classifies articles into one of four major ministries:
 
