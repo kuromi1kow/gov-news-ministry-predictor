@@ -1,14 +1,14 @@
- Ministry Classification Project
-This repository contains a full pipeline for classifying Kazakhstani news articles into relevant ministries using Natural Language Processing (NLP) and machine learning. The system consists of two specialized models and a main multi-class neural network model.
+Ministry Classification Project
+This repository contains a full pipeline for classifying Kazakhstani news articles into relevant ministries using Natural Language Processing (NLP) and machine learning. The system includes custom-labeled data, neural networks, and traditional ML models.
 
-📦 Dataset
-The dataset includes manually collected and labeled news articles in Russian. Each sample contains:
+📝 Custom Dataset (Manually Created)
+I personally collected and labeled a dataset of over 1000 Russian-language news articles related to various government ministries of Kazakhstan. Each data entry includes:
 
-title – headline of the article
+title – the news headline
 
-content – main body of the article
+content – the body text
 
-ministry – the manually labeled ministry
+ministry – the correct ministry (manually annotated)
 
 text – combined field used for classification (title + content)
 
