@@ -59,8 +59,12 @@ accuracy_score
 classification_report (precision, recall, f1-score)
 
 Final predictions tested on new, unseen articles
+
 Input:
 ![image](https://github.com/user-attachments/assets/cda52626-5070-44ce-a359-9c6b837f3ac3)
+
+
+
 Output:
 ![image](https://github.com/user-attachments/assets/1dc9bb6e-d80a-46a5-a4e1-c219cee1a014)
 
